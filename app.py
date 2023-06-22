@@ -63,7 +63,7 @@ def story_to_speech(story):
 
 
 def main():
-    st.set_page_config(page_title="Image to Story")
+    st.set_page_config(page_title="PicTale")
 
     st.header("Turn an Image into an Audible Story")
     uploaded_file = st.file_uploader("Upload an Image", type=['png', 'jpg'])
