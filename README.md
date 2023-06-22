@@ -1,5 +1,5 @@
 # PicTale
-A Django and React application that utilizes a convolutional neural network, specifically the Xception model, to classify x-ray images as 'covid', 'normal', or 'viral pneumonia' with a validation accuracy of 93%. It's capable of creating, reading, updating, and deleting previous predictions.
+
 
 ### Cloning the repository
 
