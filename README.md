@@ -1,5 +1,5 @@
 # PicTale
-
+PicTale is a Python-based application with seamless integration of image recognition, natural language processing, and text-to-speech processes to transform images into captivating short stories. With PicTale, you can simply upload an image, and a machine learning model generates a descriptive caption that captures the essence of the image. Using this caption as inspiration, PicTale goes a step further and craft a narrative.
 
 ### Cloning the repository
 
@@ -51,6 +51,8 @@ streamlit run .\app.py
 #
 
 ### App Preview :
+
+![Capture](https://github.com/amauriciogonzalez/PicTale/assets/88101535/c2a3444d-0d23-4306-9327-0275610919d5)
 
 
 #
